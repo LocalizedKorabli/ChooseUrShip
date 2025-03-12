@@ -1,25 +1,27 @@
+**中文** | [English](README-EN.md)
+
 # 选择您的座驾（ChooseUrShip）
 
 ## 预览
 
 Lesta：
 
-![](lesta/low.gif)
+![](lesta/zh/low.gif)
 
-[查看原图](lesta/normal.gif)
+[查看原图](lesta/zh/normal.gif)
 
 Wargaming：
 
-![](wg/low.gif)
+![](wg/zh/low.gif)
 
-[查看原图](wg/normal.gif)
+[查看原图](wg/zh/normal.gif)
 
 ## 介绍
 
 提供两种尺寸的GIF，不重复乱序轮播《战舰世界》莱服/直营服中所有满足以下条件的战舰：
 
-- VIII级或更高级的加值/特种战舰；
-- X级可研发/抢先体验战舰。
+- VIII-★级加值/特种战舰；
+- X或★级可研发/抢先体验战舰。
 
 ## 画面布局
 
