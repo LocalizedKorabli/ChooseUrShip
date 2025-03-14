@@ -1,6 +1,6 @@
 [中文](README.md) | **English**
 
-# Choose Your Ship (ChooseUrShip)
+# Your Ship of the Day (ChooseUrShip)
 
 ## Preview
 
